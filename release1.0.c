@@ -32,5 +32,11 @@ Patch function()
 {feature3 Function()
 {
    //Release 2 Feature3 code
+
+#Release 2 Feature4 from coder2
+{
+feature4 Function()
+{
+   // Release 2 Feature4 Code
 }
 
