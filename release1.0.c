@@ -21,3 +21,11 @@ feature2 Function()
    //Feature2 Code
 }
 >>>>>>> coder2
+
+#Security patch between release
+{
+Patch function()
+{
+  //Security Patch Code
+}
+
