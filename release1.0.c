@@ -27,5 +27,11 @@ feature2 Function()
 Patch function()
 {
   //Security Patch Code
+
+#Release 2 Feature4 from coder2
+{
+feature4 Function()
+{
+   // Release 2 Feature4 Code
 }
 
